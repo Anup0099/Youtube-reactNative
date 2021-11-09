@@ -16,7 +16,7 @@ preview:
 
 3. After completing step 1 and 2 above, open your device camera and scan the provided QR code in the link below:
 
-- Link: https://exp://exp.host/@anup2002/youtube **_(Published version of app hosted on Expo)_**
+- Link: https://exp://exp.dev/@anup2002/youtube **_(Published version of app hosted on Expo)_**
 
 4. After scanning the QR code, the Expo Go app will automatically load up the app
 
